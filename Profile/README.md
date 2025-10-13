@@ -18,7 +18,7 @@ Here’s what you’ll find in this organization:
 
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [portfolio-site](https://github.com/your-org/portfolio-site) | My personal website showcasing my work and blog posts. | HTML, CSS, JS |
+| [portfolio-site](https://phenoixverse.github.io/My-Website/) | My personal website showcasing my work and blog posts. | HTML, CSS, JS |
 <!--| [data-visualizer](https://github.com/your-org/data-visualizer) | A Python app for visualizing datasets interactively. | Python, Streamlit |
 | [ml-mini-projects](https://github.com/your-org/ml-mini-projects) | Collection of small ML models and experiments. | Python, scikit-learn |-->
 
