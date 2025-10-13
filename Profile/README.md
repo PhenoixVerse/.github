@@ -10,7 +10,7 @@ This organization hosts all my portfolio projects, experiments, and learning jou
 - 💻 Focus areas: Web Development, Machine Learning, Cloud, etc.
 - 🧠 Always learning and exploring new technologies
 - 📫 Reach me: https://www.linkedin.com/in/hardi-yatin-koli-99b875267/
-- 🌐 Personal website: http://phenoixverse.com/
+- 🌐 Personal website: https://phenoixverse.github.io/My-Website/
 ---
 
 ## 🧩 Repositories Overview
