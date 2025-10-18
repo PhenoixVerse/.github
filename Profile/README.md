@@ -43,4 +43,4 @@ All projects have their own licenses — please check each repository for detail
 ----->
 
 ⭐ **Thanks for visiting!**  
-If you like my work, follow this organization or check out my main profile: [@pheoix-12](https://github.com/phenoix-12)
+If you like my work, follow this organization or check out my main profile: [@phenoix-12](https://github.com/phenoix-12)
